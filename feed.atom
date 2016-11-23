@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <updated>2016-09-18T03:10:56+00:00</updated>
+  <id>http://www.defmacro.org/</id>
+  <title>Slava Akhmechet</title>
+
+  <author>
+    <name>Slava Akhmechet</name>
+  </author>
+
+  <link href="http://www.defmacro.org/feed.atom" rel="self" type="application/atom+xml"/>
+  <link href="http://www.defmacro.org/" rel="alternate" type="text/html" />
+
+  
+    
+  
+    
+  
+    
+  
+    
+    <entry>
+      <id>http://www.defmacro.org//2015/02/25/startup-ideas</id>
+      <title>How to pick startup ideas</title>
+      <author>
+        <name>Slava Akhmechet</name>
+      </author>
+      <link href="http://www.defmacro.org/2015/02/25/startup-ideas.html"/>
+      <published>2015-02-25T00:00:00+00:00</published>
+      <updated>2015-02-25T00:00:00+00:00</updated>
+      <content type="html">
+        <![CDATA[
+        <h1>How to pick startup ideas</h1>
+
+
+<p class="meta">25 Feb 2015</p>
+
+
+<p>One of the most important things I learned from running a startup is that on a macro scale the innovation market is efficient. If the market conditions allow for a startup to arise, it&#8217;s overwhelmingly probable that multiple startups already exist in that market. The converse is also true &#8212; if there are no startups in a given market, it&#8217;s overwhelmingly probable that market conditions are not hospitable and startups cannot arise.</p>
+
+
+<p>In this sense startups are similar to biological life. Wherever the conditions are hospitable, life already exists. The difference is that startups live in an economic rather than a biological environment.</p>
+
+
+<p>This has massive implications for picking startup ideas because technology companies tend to be winner-takes-all. The first technology company to solve a problem is often worth much more than all of its competitors combined. So if a company already exists in a market, it&#8217;s overwhelmingly likely you won&#8217;t be able to displace it.</p>
+
+
+<p>Conventional wisdom states that startup founders should work on problems they or people they know have, but as a filter for startup ideas this model is far too permissive. Market efficiency implies that if a problem is valuable and solvable, it&#8217;s overwhelmingly likely that it already would have been solved. Conversely, if it isn&#8217;t solved, there must be structural reasons for why solving it isn&#8217;t possible.</p>
+
+
+<p>Encouraging founders to work on these sorts of problems is a winning strategy for investors because the law of large numbers is on their side. It&#8217;s OK for most startups in their portfolio to be overwhelmingly unlikely to succeed. So long as the portfolio is large enough for one or two winner-takes-all companies to succeed in large markets, a fund will have good returns.</p>
+
+
+<p>However, this is a terrible strategy for founders, because the law of large numbers isn&#8217;t on their side. A startup founder doesn&#8217;t get enough shots to get a good expected value if they simply look for valuable problems. So a winning founder strategy must include a much tighter filter for startup ideas.</p>
+
+
+<p>If you can&#8217;t displace an existing technology company, and it&#8217;s overwhelmingly probable that the market environment prevents any given unsolved problem from being solved, how do successful new startups arise?</p>
+
+
+<p>Paradoxically, the solution is to stop thinking of startup ideas in terms of solving problems in the early stages of startup germination, and instead start thinking in terms of changes in the economic environment and the opportunities these changes unlock.</p>
+
+
+<p>Much like the biological environment, the economic environment isn&#8217;t static. Society&#8217;s moral compass changes over time. Political environments adapt to social norms and nation-states adopt more liberal laws. People in developing countries get richer. Small quantitative advances in technology adoption cross a threshold of critical mass and turn into qualitative changes.</p>
+
+
+<p>Changes in the environment unlock startup opportunities. And since technology companies are often winner-takes-all, recognizing an environmental change first and getting to market with a viable solution dramatically increases the probability of long-term market dominance.</p>
+
+
+<p>In the early stages ask yourself &#8212; how is the world changing and what can I do about it? Only once you identify an environmental change and make sure you&#8217;re not late to market, should you start thinking about your company in terms of <a href="http://www.defmacro.org/2013/09/26/products.html">solutions to problems</a>.</p>
+
+
+<h2>Competition</h2>
+
+
+<p>Looking at environmental changes to generate and evaluate startup ideas is a good first pass, but it isn&#8217;t sufficient. By the time you discover a change, many other people will have discovered it too. For example, when a journalist publishes an article about a trend, they will have gotten their information from multiple existing companies working in that market.</p>
+
+
+<p>When you&#8217;re first to market with a viable product, your customers will compare you to the status quo. You&#8217;ll snap up early adopters &#8212; folks who are on the bleeding edge of the trend, and if your product is good, the case for more conservative customers will get stronger and stronger over time.</p>
+
+
+<p>When you&#8217;re second to market with a viable product, your customers will compare you to the company and product that got to market first. If that happens, your job will be orders of magnitude more difficult. It&#8217;s no longer sufficient to capitalize on the trend. You have to find a strong point of differentiation with the first company, and empirically this is dramatically more difficult than founders think.</p>
+
+
+<p>First mover advantage is exacerbated by the fact that technology companies enjoy compounded growth. Building organizations takes time. Incorporating, fundraising, recruiting, and shipping and marketing a product can easily add up to many months of work. If you&#8217;re second to market, your competitor will have been scaling their user acquisition machine while you&#8217;re still scrambling to ship your product. They&#8217;ll acquire resources at an exponential rate that allow them to reach even more customers before you do, and you&#8217;ll be stuck trying to explain to users how your product is different from theirs. Most of the time, that means the death of your company.</p>
+
+
+<h2>Advantage</h2>
+
+
+<p>So you need to get to market with a viable product before anyone else does. Empirically, you can&#8217;t do that by out-executing existing companies. Even in the unlikely event that most of your competitors are incompetent, just one capable competitor will dramatically reduce your chances of success. You need to find a trend before others do, and get started while the market is wide open.</p>
+
+
+<p>There are no formulas to learning about changes early, but you can put yourself in a position to get unique insight. For example, you can learn about changes early because of your job or hobbies. Speech recognition researchers probably knew that speech recognition was getting &#8220;good enough&#8221; a few years before I did, because I only learned about it when working speech recognition products started hitting the market.</p>
+
+
+<p>Sometimes your unique background can make you aware of changes that other people can&#8217;t see. A plausible story about why most of the population is blind to something, that&#8217;s a reasonable edge. For example, maybe you think that people who haven&#8217;t lived in the third world don&#8217;t understand how important remittances are, or that the third world is just now getting sufficiently networked that you can do them digitally.</p>
+
+
+<p>You might also be in a position to exploit changes because of specific advantages that are unique to you. Some changes can be exploited by just about anyone; other changes might require deep technical knowledge or a huge amount of effort that most entrepreneurs aren&#8217;t willing to put in. Self-driving cars might be an example of this: everyone was talking about how they were just on the edge of possible for years, but only Google managed to put together the expertise, capital, and determination to get to the last mile.</p>
+
+
+<p>There are other ways to get an edge. For example, if you have the resources of a large company at your disposal, you might be late to market and still win over your competitors by having a larger marketing budget or existing distribution infrastructure. But this is rare in a startup world. Startups usually don&#8217;t win because of superior resources &#8212; they win because they recognize a trend and ship a viable product first.</p>
+
+
+<h2>Story</h2>
+
+
+<p>Thinking about your startup in terms of changes in the world doesn&#8217;t just make your startup dramatically more likely to succeed because it&#8217;s a better model for technology innovation. It has other surprising benefits.</p>
+
+
+<p>In the initial stages of a startup you have to talk to a lot of people &#8212; potential users, advisors, investors, industry experts, early employees, and eventually journalists. The first question people ask is &#8220;what does your startup do?&#8221; So communicating what you do is the first tactical problem you have to solve.</p>
+
+
+<p>Human beings are wired to respond to storytelling, and all stories have the same fundamental structure. Here is the simplest possible framework to tell a story, from Pixar&#8217;s rules of storytelling:</p>
+
+
+<blockquote>
+<p>Once upon a time there was ___. Every day, ___. One day ___. Because of that, ___. Because of that, ___. Until finally ___.</p>
+</blockquote>
+
+
+<p>The first part is the setup. The world used to work in a particular way, and here is what it meant for people&#8217;s daily lives. The next part is the change in the world. These parts are only tangentially related to your startup &#8212; the environmental change you&#8217;re describing should be inevitable regardless of whether you start your company. The market is efficient, remember? If you don&#8217;t start your company to respond to the change, many other teams will. Your goal is to get to market with a viable product first, which more often than not will help you establish market dominance.</p>
+
+
+<p>Once you describe the change in the world, only then do you talk about your product and company. The change is occurring independent of your actions. You just happen to notice it first.</p>
+
+
+<p>The last part shows how your company will transform people&#8217;s lives. When your startup grows large enough to own the majority of the market, you will be the cause of the next qualitative environmental change. In this way your startup will complete the circle of technology innovation.</p>
+
+
+<p>This is how the best companies tell their stories. People buy cars driven by internal combustion engines. But battery technology has gotten cheap enough that we can build a pure electric vehicle. It&#8217;s still fairly expensive, so we&#8217;ll start with luxury vehicles. As battery technology gets even cheaper, we&#8217;ll go down market. Until finally, we&#8217;ll transform the auto industry so that every car will be an electric car.</p>
+
+
+<p>This type of story telling is incredibly effective at propelling your startup. Early adopters, employees and advisors will be more likely to sign on because you&#8217;re inviting them on a journey. Investors will be more likely to respond because this matches their model of the world. And journalists will cover you because you&#8217;re essentially doing their job for them.</p>
+
+
+<p>A good story gives you tremendous descriptive power to explain what you do to different parties in a consistent way. But even more importantly a good story is prescriptive &#8212; it informs decisions and forces you to make disciplined choices. If you&#8217;re about to make a decision that doesn&#8217;t fit your story, you have to explicitly choose whether to reevaluate the decision or to refine your story. Early stage startups get pulled in a thousand different directions. They&#8217;re much more likely to get killed by compromises than by committing to a wrong path. A good story keeps you honest, prevents you from trying to please everybody, and gives you the mental clarity to go in a concrete direction.</p>
+
+
+<h2>Exceptions</h2>
+
+
+<p>The notions that innovation markets are efficient and that first movers are overwhelmingly difficult to displace are controversial because it&#8217;s easy to think of counterexamples.</p>
+
+
+<p>Beats Headphones broke every rule in this article and still succeeded because fashion companies are inherently fickle and unstable. Microsoft Surface shipped a poorly differentiated product and succeeded in a fairly mature market because of a huge marketing budget. Many opportunities remain undiscovered for years and many deeply technical problems remain open for decades until finally someone abruptly snaps them up. Even seemingly unstoppable hyper-growth companies make critical mistakes and effectively commit suicide.</p>
+
+
+<p>In the startup world these cases are the exception rather than the rule. Most founders can&#8217;t swing a partnership with a successful hip-hop artist and can&#8217;t execute a billion dollar market campaign on the cheap (but think they can). Startups tend to feel exceptional because you&#8217;re going off the beaten path, but within the startup world you&#8217;re less exceptional than you think.</p>
+
+
+<p>If you&#8217;re convinced you&#8217;ve found an exception, be careful. Most startups fail at inception and take years to find out because the founders didn&#8217;t understand efficient markets and first mover advantage. So think about this model deeply, and understand it first. Exceptions do exist, but make sure you have a deep understanding of what you&#8217;re doing. You need to learn the rules before you can invent your own.</p>
+
+
+<h2>Self-deception</h2>
+
+
+<p>One caveat to thinking of startup ideas in terms of environmental changes is that it&#8217;s so effective that it&#8217;s easy to deceive yourself with early success. Smart and sufficiently determined entrepreneurs can find evidence for environmental changes to support almost any startup idea. If you&#8217;re committed to building a food delivery service, you can always invent a hypothesis, weave a narrative about your product around it, find credible supporting data, and polish your pitch until a large number of people believe it. Unfortunately you will have created very compelling fiction.</p>
+
+
+<p>This isn&#8217;t unlike the process of undermining the scientific method by believing in your hypothesis so strongly that you start to unconsciously reject discouraging evidence. Confirmation bias is deadly in science, and it&#8217;s equally deadly in business.</p>
+
+
+<p>It&#8217;s relatively easy to attract a surprising amount of capital, talent, and press interest to your company this way, which makes the technique extremely dangerous. I&#8217;ve met people who burned through millions of dollars of other people&#8217;s money and wasted hundreds of man-years on projects because they&#8217;d inadvertently created very compelling fictions and were sufficiently taken by early success to believe in their own fiction themselves.</p>
+
+
+<p>So it isn&#8217;t just important for the story to be compelling. It&#8217;s also extremely important for the story to be right.</p>
+
+
+<p>Evaluating the correctness of a story is an extremely challenging art that lies at the intersection of many disciplines &#8212; economics, science fiction, history, anthropology, and sociology. You&#8217;ll need to think deeply about the world and invest years of concerted effort into building a good intuition for thinking about the future. Even then you&#8217;ll be right only a fraction of the time. But you can still get much better than random chance.</p>
+
+
+<h2>Intuition</h2>
+
+
+<p>Here are some things I&#8217;ve read that have helped my think about the future. I use them to learn how to put together stories, and to hone my intuition on how likely these stories are to be correct:</p>
+
+
+<ul>
+    <li>Reading <a href="http://www.economist.com">The Economist</a> for a few months is a great way to get on the same page with conventional wisdom. The Economist writers are very good at thinking about the future (but keep in mind that they have no strong pressure to be correct).</li>
+    <li>Peter Thiel&#8217;s book <a href="http://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296">Zero to One</a> is excellent. Most business books are terrible, but this one is the exception.</li>
+    <li>Reading <a href="http://hpmor.com">Harry Potter and the Methods of Rationality</a> is very instructive. What Harry spends the first eleven chapters doing is exactly what you want to be teaching yourself. &#8220;The rules are different, there is magic in the world. What happens now? Can I get rich from galleon/sickle arbitrage?&#8221;</li>
+    <li>Similarly, I browse the <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/HomePage">TV Tropes wiki</a> from time to time to help me deconstruct my own fiction.</li>
+    <li>William Gibson&#8217;s essays in <a href="http://www.amazon.com/Distrust-Particular-Flavor-William-Gibson/dp/042525299X">Distrust That Particular Flavor</a> helped me think deeply about technological innovation in the real world.</li>
+    <li>Similarly <a href="http://web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf">Five Things We Need to Know About Technological Change</a> by Neil Postman has a unique way of thinking about technology. He&#8217;s bearish on technological innovation, but still has a uniquely useful way of thinking about how technology propagates.</li>
+</ul>
+
+
+<p>Once you get through these links, start going deeper.</p>
+
+
+<p>Learn as much as you can about microeconomics to get a better model for how the world works. Not just the basics of supply and demand, but more advanced topics like complementary and substitute goods, elasticity, marginal utility, etc.</p>
+
+
+<p>Study history. Don&#8217;t just learn dates and names, but ask deep questions. Why did the Ottoman Empire never develop feudalism despite being in similar economic and technological state of development as European nation-states? Why didn’t the inventors of the steam engine capture most of the value they created? Why didn&#8217;t the Chinese civilization end up conquering Europe during its golden ages, when it was far more developed than European nation-states?</p>
+
+
+<p>Get a rudimentary understanding of anthropology and ethnography. Understand <a href="http://en.wikipedia.org/wiki/Emic_and_etic">emic and etic</a> approaches to cultural evaluation and learn to think deeply of cultural change.</p>
+
+
+<p>Cover the basics, and start branching out on your own. Look carefully, and you&#8217;ll find lessons in the most surprising places. As you think deeply about the world, start acting. The best way to get an intuition for how to make good decisions is to make actual decisions and observe results, so don&#8217;t get wrapped up in analysis paralysis. Start a company, and start learning from your own mistakes.</p>
+
+
+<p><br />
+<i>Thanks to Michael Lucy for reviewing and contributing to this post.</i></p>
+
+
+        ]]>
+      </content>
+    </entry>
+    
+  
+    
+    <entry>
+      <id>http://www.defmacro.org//2014/10/03/engman</id>
+      <title>44 engineering management lessons</title>
+      <author>
+        <name>Slava Akhmechet</name>
+      </author>
+      <link href="http://www.defmacro.org/2014/10/03/engman.html"/>
+      <published>2014-10-03T00:00:00+00:00</published>
+      <updated>2014-10-03T00:00:00+00:00</updated>
+      <content type="html">
+        <![CDATA[
+        <h1>44 engineering management lessons</h1>
+
+
+<p class="meta">03 Oct 2014</p>
+
+
+<p>Welcome to engineering management. It&#8217;s fun, it&#8217;s exhausting, it&#8217;s rewarding &#8212; but most importantly it&#8217;s new! What worked for you before won&#8217;t work now. You&#8217;ll have to acquire a new set of skills, and shed some bad habits in the process. Here is a short guide to get you started.</p>
+
+
+<h2>Do<br />
+<br /></h2>
+
+
+<ol>
+    <li>Attract, nurture, coach, and retain talent. Talk to engineers to tease out concerns early, then fix them if you can.</li>
+    <li>Communicate to every engineer the next most important issue for them to work on.</li>
+    <li>Be the tiebreaker when the development team can&#8217;t reach consensus.</li>
+    <li>Be the information hub. Know what every engineer is working on, and help connect the dots that wouldn&#8217;t otherwise get connected.</li>
+    <li>Provide administrative support. Schedule issues, coordinate releases, and make sure the bureaucratic machine keeps ticking.</li>
+    <li>Enforce behavioral and performance standards. Fire bullies and underperformers.</li>
+</ol>
+
+
+<h2 style="margin-left: -8px;"><br />Don&#8217;t<br /><br /></h2>
+
+
+<ol start="7">
+    <li>Personally fix bugs and ship features. You have to write code to remain an effective tiebreaker, but that&#8217;s where your coding responsibilities end.</li>
+    <li>Supervise the quality and volume of people&#8217;s work. Software engineering isn&#8217;t an assembly line. If you find yourself supervising too often, you haven&#8217;t attracted the right people or given them the right incentives.</li>
+</ol>
+
+
+<h2 style="margin-left: -8px;"><br />Motivation and culture<br /><br /></h2>
+
+
+<ol start="9">
+    <li>You&#8217;re the one who makes hiring and firing decisions. Everything that happens on your team is your responsibility.</li>
+    <li>Engineering is a seller&#8217;s market: people work for you because they believe in you. Access to their talent is a privilege.</li>
+    <li>Authority isn&#8217;t bestowed freely. It&#8217;s earned by making good decisions over time.</li>
+    <li>Don&#8217;t make decisions unless you have to. Whenever possible, allow the team to explore ideas and make decisions on its own.</li>
+    <li>Do make decisions when it&#8217;s necessary. Few things are as demoralizing as a stalled team.</li>
+    <li>Don&#8217;t shoot down ideas until it&#8217;s necessary. Create an environment where everyone feels safe to share and explore ideas. The folks writing the code have a lot of information you don&#8217;t. Rely on your team and you&#8217;ll make better decisions.</li>
+    <li>Building intuition on how to make good decisions and cultivating a great relationship with your team will get you 95% of the way there. The <a href="http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/">plethora</a> <a href="http://en.wikipedia.org/wiki/Scrum_(software_development)">of</a> <a href="http://en.wikipedia.org/wiki/OKR">conceptual</a> <a href="http://en.wikipedia.org/wiki/Kanban">frameworks</a> for organizing engineering teams won&#8217;t make much difference. They make good managers slightly better and bad managers slightly worse.</li>
+</ol>
+
+
+<h2 style="margin-left: -8px;"><br />Emotions and people<br /><br /></h2>
+
+
+<ol start="16">
+    <li>Management happens to be prestigious in our culture, but it&#8217;s a skill like any other. Prestige is a distraction &#8212; it&#8217;s fickle and arbitrary. Guard against believing you&#8217;re any better than anyone else. The sooner you get over prestige, the sooner you can focus on doing your job well.</li>
+    <li>Management also attracts scorn. Ignore it &#8212; the people who believe managers are useless don&#8217;t understand the dynamics of building a winning human organization.</li>
+    <li>If you feel something&#8217;s wrong, you&#8217;re probably right. Don&#8217;t let anyone bully you into ignoring your feelings.</li>
+    <li>If you find yourself blaming someone, you&#8217;re probably wrong. Nobody wakes up and tries to do a bad job. 95% of the time you can resolve your feelings by just talking to people.</li>
+    <li>Most people won&#8217;t easily share their emotions. Have frequent informal conversations, and tease out everything that might be wrong. Then fix it if you can.</li>
+    <li>Your team looks to you for leadership. Have the courage to say what everyone knows to be true but isn&#8217;t saying.</li>
+    <li>You&#8217;re paid to discover and fix cultural problems your team may not be aware of. Have the courage to say what everyone should know but doesn&#8217;t.</li>
+    <li>Hire great people, then trust them completely. Evaluate performance on monthly or quarterly basis, then fire if you have to. Don&#8217;t evaluate people daily, it will drive everyone (including you) insane.</li>
+    <li>Most intellectual arguments have strong emotional undercurrents. You&#8217;ll be dramatically more efficient once you learn to figure out what those are.</li>
+</ol>
+
+
+<h2 style="margin-left: -8px;"><br />Tiebreaking and conflict<br /><br /></h2>
+
+
+<ol start="25">
+    <li>Don&#8217;t judge too quickly; you&#8217;re right less often than you think. Even if you&#8217;re sure you&#8217;re right in any given case, wait until everyone&#8217;s opinion is heard.</li>
+    <li>Once everyone is heard, summarize all points of view so clearly that people say &#8220;Thanks, I wish I&#8217;d thought of putting it that way.&#8221; List any points of agreement with each view, and state what you&#8217;ve learned from everyone. Then make your decision.</li>
+    <li>Once you&#8217;ve made your decision, enforce it. Don&#8217;t let the team waste time going in circles to placate disproportionally strong voices.</li>
+    <li>Reopen the discussion if there is significant new information.</li>
+    <li>When disagreement gets personal or people don&#8217;t accept well-reasoned decisions, it turns into conflict.</li>
+    <li>Most conflict happens because people don&#8217;t feel heard. Sit down with each person and ask them how they feel. Listen carefully. Then ask again. And again. Then summarize what they said back to them. Most of the time that will solve the problem.</li>
+    <li>If the conflict persists after you&#8217;ve gone to reasonable lengths to hear everyone out and fix problems, it&#8217;s time for a difficult conversation.</li>
+</ol>
+
+
+<h2 style="margin-left: -8px;"><br />Difficult conversations<br /><br /></h2>
+
+
+<ol start="32">
+    <li>Have difficult conversations as soon as possible. Waiting will only make a bad situation worse.</li>
+    <li>Never assume or jump to conclusions. Never demonize people in your mind. Never blame, yell or vilify.</li>
+    <li>Use <a href="http://firstround.com/article/power-up-your-team-with-nonviolent-communication-principles">non-violent communication</a> &#8212; it&#8217;s the best method I know of to critique people&#8217;s behavior without offending them. It smells like a management fad, but it really works (I promise).</li>
+    <li>Have the courage to state how you feel and what you need. People are drawn to each other&#8217;s vulnerability but repelled by their own. Vulnerability isn&#8217;t weakness.</li>
+    <li>Expect people to extend you the same courtesy. If someone makes you feel bad for stating your needs and feelings, it tells you more about them than about yourself.</li>
+</ol>
+
+
+<h2 style="margin-left: -8px;"><br />Rough edge<br /><br /></h2>
+
+
+<ol start="37">
+    <li>People will push and prod to discover your boundaries. Knowing when to stand back and when to stand firm is half the battle.</li>
+    <li>Occasionally someone will push too far. When they do, you have to show a rough edge or you&#8217;ll lose authority with your team.</li>
+    <li>A firm &#8220;I&#8217;m not ok with that&#8221; is usually enough.</li>
+    <li>Don&#8217;t laugh things off if you don&#8217;t feel like laughing them off. Have the courage to show your true emotions.</li>
+    <li>If you have to firmly say &#8220;I&#8217;m not ok with that&#8221; too many times to the same person, it&#8217;s your job to fire them.</li>
+    <li>Unless you&#8217;re a sociopath, firing people is so hard you&#8217;ll invent excuses not to do it. If you&#8217;re consistently wondering if someone&#8217;s a good fit for too long, have the courage to do what you know is right.</li>
+    <li>Don&#8217;t let people pressure you into decisions you don&#8217;t believe in. They&#8217;ll hold <em>you</em> responsible for them later, and they&#8217;ll be right. Decisions are your responsibility.</li>
+    <li>Believe in yourself. You can&#8217;t lead a cavalry charge if you think you look funny on a horse.</li>
+</ol>
+
+
+<p><br />
+<i>Thanks to Michael Glukhovsky, Michael Lucy, and Alex Taussig for reviewing this post.</i></p>
+
+
+        ]]>
+      </content>
+    </entry>
+    
+  
+    
+    <entry>
+      <id>http://www.defmacro.org//2014/08/27/speakup</id>
+      <title>Speak up</title>
+      <author>
+        <name>Slava Akhmechet</name>
+      </author>
+      <link href="http://www.defmacro.org/2014/08/27/speakup.html"/>
+      <published>2014-08-27T00:00:00+00:00</published>
+      <updated>2014-08-27T00:00:00+00:00</updated>
+      <content type="html">
+        <![CDATA[
+        <h1>Speak up</h1>
+
+
+<p class="meta">27 Aug 2014</p>
+
+
+<p>I just read <a href="https://gist.github.com/drtortoise/5dc254c614d6b6a19116">Linda Sandvik&#8217;s letter</a> announcing her resignation from the Code Club. The gist of it is that the board of directors asked her to avoid criticism of the sponsors, and she decided to step down instead.</p>
+
+
+<p>I&#8217;ve never met Linda and don&#8217;t know anything about her beliefs. In fact, this is the first time I hear of her or of the Code Club (have I been living under a rock?) She sounds like a reasonable person, but it&#8217;s possible that some of her opinions are unreasonable. I don&#8217;t know. But regardless, she deserves enormous respect for her decision.</p>
+
+
+<p>People outside the industry (and even most of the insiders) don&#8217;t really understand how much is left unsaid because of the enormous systemic pressure to stay quiet. Take me, for example.</p>
+
+
+<p>It seems like every few days I run into a newspaper article covering something in my field that&#8217;s grossly misinformed, intellectually dishonest, or both. Most of the time I judge that debunking it isn&#8217;t worth the time and energy, but every once in a while someone publishes something so outrageous that I open the editor and start writing. But then I realize the pressure&#8217;s on, and I stop. What if my company needs coverage from that particular newspaper?  My users, employees, and investors depend on me. Is it worth picking this particular battle? Is now the time? Almost inevitably, I decide to wait. First we&#8217;ll get the leverage then I&#8217;ll be able to speak up.</p>
+
+
+<p>This isn&#8217;t limited to poor journalism. Should I share my views when I notice a government agency or a corporation doing something unethical? What if they later do a Google search during a product evaluation, find my comments, and decide to go with a competitor? Am I willing to take that risk? How about unethical behavior from VC firms? If I speak up, what happens during the next rounding of funding? Is it worth alienating the investor community over any given issue?</p>
+
+
+<p>Inevitably, I tell myself the answer is &#8220;no&#8221;. Inevitably, I open the editor, start typing, and then decide to stop. Some days, in my heart of hearts, I really believe I&#8217;m doing the right thing. People depend on me, and I&#8217;m being pragmatic. Other days, I think I&#8217;m just a coward. Even in this post I&#8217;m careful not to mention any newspapers, governments, or firms. It&#8217;s easy to speak up against completely outrageous or criminal behavior, when you know everyone will agree with you. It&#8217;s much harder when the lines are blurry, which is almost always the case when you&#8217;re on the bleeding edge of advocacy.</p>
+
+
+<p>And I&#8217;m not even important. My company is still small. What about the people who run bigger companies, who&#8217;ve learned more, and by virtue of their position are aware of more? What about the pressure they feel? How much do they leave unsaid?</p>
+
+
+<p>I think I&#8217;m doing the right thing. If you want to do great work, you can only do one thing at a time. So you have to pick carefully, and then go all in. I&#8217;ve picked my battle, and I&#8217;ve gone all in. For me, it outweighs any given instance when I might want to speak up. But when I think of how much I leave unsaid in aggregate, I&#8217;m not so sure I&#8217;m making the right decision.</p>
+
+
+<p>There isn&#8217;t a solution to this. These choices are hard. Disagreements aside, all I know is that I have immense respect for people who choose not to stay quiet. If you don&#8217;t already, you should too.</p>
+
+
+        ]]>
+      </content>
+    </entry>
+    
+  
+    
+    <entry>
+      <id>http://www.defmacro.org//2014/01/29/why-startups-fail</id>
+      <title>Why startups fail</title>
+      <author>
+        <name>Slava Akhmechet</name>
+      </author>
+      <link href="http://www.defmacro.org/2014/01/29/why-startups-fail.html"/>
+      <published>2014-01-29T00:00:00+00:00</published>
+      <updated>2014-01-29T00:00:00+00:00</updated>
+      <content type="html">
+        <![CDATA[
+        <h1>Why startups fail</h1>
+
+
+<p class="meta">29 Jan 2014</p>
+
+
+<p>There is a lot of cultural wisdom on why startups fail. No one wants the product. The market is tiny. The team is bad. The economics don&#8217;t work out. You run out of cash.</p>
+
+
+<p>All of that is true. But it&#8217;s the effect, not the cause.</p>
+
+
+<p>There are two root causes for failing startups people don&#8217;t often talk about. You know something&#8217;s wrong but don&#8217;t know what to do about it, or you know something&#8217;s wrong, know what to do about it, but don&#8217;t do it because you&#8217;re afraid.<sup>1</sup></p>
+
+
+<p>About 95% of mistakes I made in the first two years of founding a startup fell into the latter category. Getting past these early fears was extremely hard on me emotionally and took a very long time. But in hindsight, developing the courage to do what I know is right was one of the best things about starting up.</p>
+
+
+<p>I still make as many mistakes as ever, but now it&#8217;s because I don&#8217;t have the know-how. I hate these mistakes &#8212; they drive me nuts. But I no longer hate myself. Failing because I didn&#8217;t know better? I can live with that. Failing because I knew what needed to get done but didn&#8217;t have the courage to do it? That will sting for a long, long time.</p>
+
+
+<p>Look at some startup questions on Quora:</p>
+
+
+<p>- <a href="http://www.quora.com/Startups/Should-I-step-down-My-CEO-cofounder-hasnt-brought-any-funding-nor-real-customers">Should I step down? My <span class="caps">CEO</span> cofounder hasn&#8217;t brought any funding, nor real customers?</a><br />
+- <a href="http://www.quora.com/Startups/How-do-I-tell-my-cofounder-that-I-dont-think-he-is-suited-to-be-a-cofounder">How do I tell my cofounder that I don&#8217;t think he is suited to be a cofounder?</a><br />
+- <a href="http://www.quora.com/India/Need-help-with-dealing-a-very-lazy-and-reckless-employee">Need help with dealing a very lazy and reckless employee?</a><br />
+- <a href="http://www.quora.com/Management/How-do-you-deal-with-reckless-employees">How do you deal with reckless employees?</a></p>
+
+
+<p>The authors already know what&#8217;s wrong and what to do. But they&#8217;re not doing it. Doing what you know to be right can be very, very hard.</p>
+
+
+<p>Everyone needs some time to work up the courage. That&#8217;s ok. Just try not to take years. The sooner you face your fears, the sooner you get past them. It&#8217;s the only way to get a real chance to break into the big leagues.</p>
+
+
+<p><br />
+<i><sup>1</sup> One other possibility is not knowing something&#8217;s wrong, but mistakes like these are very rare. Startup founders are usually so paranoid they can sense problems from a thousand miles away.</i></p>
+
+
+        ]]>
+      </content>
+    </entry>
+    
+  
+    
+    <entry>
+      <id>http://www.defmacro.org//2013/12/09/learn-to-code</id>
+      <title>Learn to code like it's 1996</title>
+      <author>
+        <name>Slava Akhmechet</name>
+      </author>
+      <link href="http://www.defmacro.org/2013/12/09/learn-to-code.html"/>
+      <published>2013-12-09T00:00:00+00:00</published>
+      <updated>2013-12-09T00:00:00+00:00</updated>
+      <content type="html">
+        <![CDATA[
+        <h1>Learn to code like it&#8217;s 1996</h1>
+
+
+<p class="meta">09 Dec 2013</p>
+
+
+<p>I&#8217;ve been meaning to write up my take on the learn to code movement for quite some time now, but for one reason or another haven&#8217;t managed to get around to it. Now that the president is endorsing Computer Science and <a href="https://www.youtube.com/watch?v=6XvmhE1J9PY&amp;list=TL6euzOUWjLwl8_6zUc-uxbfDbAZw-8RhW">telling Americans to learn to code</a>, this post has jumped to the top of my priority list.</p>
+
+
+<p>After all, I have a unique perspective on this movement that most commentators are missing. I was a Russian immigrant in <span class="caps">NYC</span> in 1996.</p>
+
+
+<p>For the first two weeks after moving from Ukraine to New York, my family of five (my mom, dad, my mom&#8217;s parents, and myself) lived in a tiny two bedroom apartment on Coney Island Avenue in Brooklyn with my aunt&#8217;s family of five (my aunt, uncle, their teenage son, and their twenty-two year old daughter with her husband). It was a pretty good neighborhood, but very loud. We arrived just on the eve of the fourth of July and I distinctly remember being unable to sleep because of loud bangs of fireworks immediately followed by the pernicious whine of car alarms going off every few minutes.</p>
+
+
+<p>For my thirteen year old self it was an adventure. For my parents, who were in their mid-forties and have never left the familiar confines of the Soviet Union before, it was a hell of a culture shock. Like most immigrants, &#8220;what have we gotten ourselves into&#8221; must have been all they were thinking those first few weeks.</p>
+
+
+<p>My uncle, who was a math teacher back home, worked his ass off to support his family. He&#8217;d be out of the apartment by seven in the morning, working until 6pm in a furniture factory, building and delivering cheap convertible sofa beds for other Russian immigrant families. When he was done with his day job, he&#8217;d come home, take a quick shower, and be off to night school. He was, you guessed it, learning to code, in a class of thirty other middle aged Russian immigrants. He was learning to program the <span class="caps">IBM</span> AS/400.</p>
+
+
+<p>1996 was smack in the middle of an enormous wave of immigration from the former Soviet Union. By some accounts millions of people left to seek a better life all over the world, and a lion&#8217;s share of these people ended up in New York City. The infrastructure supporting these families was staggering &#8212; thousands of businesses ran and operated by Russian immigrants in Brooklyn alone, dozens of non-profit organizations helping with necessities and teaching the basics of the new American life (I still remember the four hour long waiting lines in <a href="http://en.wikipedia.org/wiki/New_York_Association_for_New_Americans"><span class="caps">NYANA</span></a> &#8212; the New York Association for New Americans), special programs in high schools to help integrate Russian students via a smooth transition (it didn&#8217;t feel all that smooth, but it was better than nothing), and multiple Russian-American TV channels which provided some relief from the immense culture shock and offered a window into the soul of the Russian-American community.</p>
+
+
+<p>At the time, becoming a limo driver was the bread and butter job for relatively healthy Russian males. You didn&#8217;t have to speak any English, the salaries were pretty good relative to other available opportunities, you could pick your hours to work around your trade school schedule, and the Wall Street firms were more than willing to subsidize the demand for a much needed supply. Every twenty minutes the Russian-American TV channels ran advertisements by various limo companies recruiting new drivers and promising the American dream (all the ads had a stereotypical-looking middle aged Russian immigrant sipping margaritas by a pool of his new house, surrounded by beautiful women in bikinis, all because he became a limo driver).</p>
+
+
+<p>But the limo companies had competition for recruits. Various city, state, and federal government agencies offered grants to subsidize trade schools in order to help integrate the enormous wave of immigrants. The U.S. was in the middle of the dot-com boom, and the Russian immigrant community in New York felt it. Dozens of trade schools offered computer programming courses for the new immigrants in anything from AS/400 to Fortran to Visual Basic, all paid for by government agencies. The biggest schools advertised on the Russian-American TV channels competing with the limo companies for recruits directly. Why drive a limo all day, if you could learn to program computers? They showed overworked limo drivers shedding their Lincoln Towncars and buying expensive suits with briefcases, arriving to their newly minted high profile jobs in downtown Manhattan. In just a few short months, they said, you could have a much bigger salary doing an easier job. No cheesy houses with pools and bikini girls. The stereotypical-looking middle aged Russian immigrant in these ads was far more serious, a professional, living the <strong>real</strong> American dream.</p>
+
+
+<p>The late nineties, Russian immigrant version of the learn to code movement <strong>really</strong> took off. Every once in a while you&#8217;d hear about someone who never finished high school back home going through one of these trade schools and getting a programming job, which made more people sign up. You couldn&#8217;t buy a loaf of Russian bread or take the Q train from Brooklyn to Manhattan without overhearing a conversation about someone going to one of these schools, or planning to start, or finally getting a job in a &#8220;real&#8221; company programming computers (as opposed to a job in one of the many stingy Russian businesses).</p>
+
+
+<p>By 2000 the whole thing went bust. Most people taking these courses never managed to get a job, and everyone found out soon enough. Most of the few people that did manage to get jobs lost them after the dot-com crash. Everyone found out about that too. Trade school TV advertisements stopped entirely, replaced by advertisements of medical and dental offices. By 2005 everyone forgot about the whole thing.</p>
+
+
+<p>I don&#8217;t know what it means for today&#8217;s learn to code movement, or whether there are any useful parallels to be drawn from its 1996 counterpart. In many ways today&#8217;s movement feels similar, but there are many crucial ways in which it&#8217;s different. All I know is that my uncle is one of the very few people who are to this day making a living programming the <span class="caps">IBM</span> AS/400.</p>
+
+
+        ]]>
+      </content>
+    </entry>
+    
+  
+    
+    <entry>
+      <id>http://www.defmacro.org//2013/09/26/products</id>
+      <title>How to build great products</title>
+      <author>
+        <name>Slava Akhmechet</name>
+      </author>
+      <link href="http://www.defmacro.org/2013/09/26/products.html"/>
+      <published>2013-09-26T00:00:00+00:00</published>
+      <updated>2013-09-26T00:00:00+00:00</updated>
+      <content type="html">
+        <![CDATA[
+        <h1>How to build great products</h1>
+
+
+<p class="meta">26 Sep 2013</p>
+
+
+<p>If you believe that <a href="http://www.defmacro.org/2013/07/23/startup-lessons.html">sales fix everything</a>, it follows that most startups fail because they don&#8217;t ship a great product in a growing market before they run out of money. Assuming you&#8217;ve picked an explosive market, how do you go about building a great product?<sup>1</sup></p>
+
+
+<p>Building great products is hard, but the difficulty is greatly exacerbated if you have no good model for analyzing products and features. Without a model you&#8217;re left with a never-ending stream of feature ideas and half-informed shots in the dark. Some people can pull this off because they start out with a phenomenal product intuition. But most people aren&#8217;t blessed with this superpower on day one.</p>
+
+
+<p>I started out with terrible intuition (and didn&#8217;t even know it). Over the past three years I looked at our user metrics every day, creating a feedback loop to train my brain on what makes a good product. Eventually I got quite good at predicting the impact of any given feature, so I started thinking of a model that captures the essence of what I&#8217;ve learned.</p>
+
+
+<h2>The three bucket model</h2>
+
+
+<p>The most important aspect of product management is categorizing features into three buckets: gamechangers, showstoppers, and distractions. When I first started building products, all features looked roughly the same. Over time, I formed the three bucket model and now my mind automatically slots every feature into one of these buckets.</p>
+
+
+<p>Here is an example. Suppose you are building a new mobile phone. It has to be able to call people, or no one will buy it since it wouldn&#8217;t be much of a phone. But the reverse isn&#8217;t true &#8212; having voice calls won&#8217;t make anybody buy your phone because every other phone already does that. So for your mobile phone product, voice calls are a showstopper.</p>
+
+
+<p>On the other hand, suppose your phone could project videos onto a surface. No other phone does that, so this feature could be a gamechanger that excites a lot of consumers. Alternatively, it&#8217;s possible that most people won&#8217;t care about it at all, in which case it&#8217;s just a distraction.</p>
+
+
+<p>This example gives you three buckets to categorize any given feature:</p>
+
+
+<ul>
+    <li><strong>A gamechanger.</strong> People will want to buy your product because of this feature.</li>
+    <li><strong>A showstopper.</strong> People won&#8217;t buy your product if you&#8217;re missing this feature, but adding it won&#8217;t generate demand.</li>
+    <li><strong>A distraction.</strong> This feature will make no measurable impact on adoption.</li>
+</ul>
+
+
+<p>Empirically, successful products have one to three gamechanging features, dozens of features that neutralize showstoppers, and very few features that are distractions. Your job is to build an intuition about your space to be able to tell these categories apart. That&#8217;s still pretty subtle (is a built-in phone projector a gamechanger or a distraction?), but at least this model gives you a plan of attack.</p>
+
+
+<h2>Resource allocation</h2>
+
+
+<p>If you had infinite time, you could ignore these categories and blindly iterate on the product until it resonates with the market. But your time is finite. The longer you take to find a great product, the more likely you are to run out of cash, squander morale, or miss the market moving under your feet. Modeling product management in terms of the three categories is extremely valuable because it allows you to treat product management as a resource allocation problem.</p>
+
+
+<p>If you put any effort into distractions, you&#8217;re wasting resources. That much is obvious.</p>
+
+
+<p>If you&#8217;re doing more showstopper features than you absolutely need to, you&#8217;re wasting resources. Lack of copy-pasting on the first iPhone might have been a showstopper for some people, but Apple correctly determined that enough consumers would still buy the phone. There was no need to delay.</p>
+
+
+<p>If you put more effort into any given showstopper than the absolute minimum you can get away with, you&#8217;re wasting resources. The first iPhone had pretty bad voice quality, but it was good enough. Most people were willing to live with it. It made calls, and it wasn&#8217;t terrible. Improving the voice quality by another 10% would have made little measurable impact on adoption.</p>
+
+
+<p>If you&#8217;re doing more than three gamechanging features, you&#8217;re wasting resources. Empirically, few disruptive products are good at a dozen things. Shipping gamechanging features is <i>hard</i>. Three is probably the most you can get away with, and even that is a stretch.</p>
+
+
+<p>Finally, if you don&#8217;t pour enough creative energy into any given gamechanging feature, you&#8217;re wasting resources. If a gamechanging feature doesn&#8217;t absolutely blow people away, it&#8217;s not much of a gamechanger &#8212; it&#8217;s just a distraction. In this category you can&#8217;t go half way.</p>
+
+
+<p>You can get away with making some mistakes. Very few products absolutely nail this on launch. But most first time product managers break all of these rules all the time, probably because they&#8217;re not aware of them. Break these rules at your own peril. The fewer mistakes you make relative to your competition, the better. Every mistake can be incredibly costly. Make too many and someone else will run circles around you.</p>
+
+
+<h2>Craftsmanship</h2>
+
+
+<p>The trickiest part of building products is learning how to tell the difference between the categories and knowing when a given category is full. Is a built-in phone projector a gamechanger or a distraction? If it&#8217;s a gamechanger, is it big enough to attract sufficient demand, or do you need another gamechanger? If you invented the technology to increase voice quality by 50%, does that become a gamechanger or is it still just a showstopping feature? How about 200%? How many showstoppers do you have to neutralize to build a compelling phone?</p>
+
+
+<p>I have no idea what the answers are for the mobile phone market, but in my area, unstructured data, I can look at any given feature and tell which category it falls into quite easily. Sometimes I&#8217;m wrong, but that&#8217;s ok. I just have to be wrong less often than my competitors.</p>
+
+
+<p>The best way to build this intuition is to talk to a lot of people. Talk to potential users. What do they think? Talk to people who tried to build a product in your space and failed. What can you learn from their failure? Talk to competitors. How do they approach the problem? Talk to engineers in big companies. What can they tell you about the state of technology? Talk to other entrepreneurs in adjacent spaces, investors, journalists, grad students, professors, even the naysayers. The best way to get a sense of taste in a given space is to inject yourself into the industry and talk to as many people as you can.</p>
+
+
+<h2>Buyers, stakeholders, and pundits</h2>
+
+
+<p>The sooner you can learn about the history of the space, the state of the technology, the opinions of potential users, and the direction of your competition, the sooner you can form a coherent view of the space and develop a unique vision for your product. But be careful. It&#8217;s easy to start taking advice from the wrong people.</p>
+
+
+<p>Suppose you&#8217;ve decided to design your mobile phone in a form factor of a walkie talkie for construction workers, and you&#8217;ve determined that the best way to sell it is to construction managers top-down. If you talk to construction workers, they might be enamored by beautiful icons and an unusual color scheme. You might determine that the unique design of your phone is a gamechanger. But ultimately, it&#8217;s the construction manager who&#8217;s writing the check. For the construction manager, a beautiful design is nice, but it isn&#8217;t a gamechanger. It doesn&#8217;t help him run the business any better than he did before.</p>
+
+
+<p>For complex business sales, you have to pay attention to all the parties and make sure all the stakeholders are satisfied. Are the construction workers strong influencers on the manager&#8217;s decision? If so, spending time on a unique design might not be a bad idea. If not, you might be wasting your time.</p>
+
+
+<p>It&#8217;s true even for consumer products. If you&#8217;re designing a luxury phone and pricing it above every other phone on the market, do your customers have to convince their spouse? Do most families make shared decisions about buying luxury items, or do people splurge on luxury items independently? If they have to convince their spouse, can you add a feature to make it easier? Find out!</p>
+
+
+<p>Beware of noise. Learn the difference between your users and people who are just commenting. Everyone you talk to will have an opinion. Early on it can be tempting to design a product based on feedback from industry pundits. But a feature is only a gamechanger if the person signing the proverbial check recognizes it as one. Otherwise, it&#8217;s a distraction. Industry pundits can be extremely useful for understanding the state of your field, but they&#8217;re rarely the ones to buy your product. If you design your product around their feedback, you&#8217;ll find that there is nobody to buy it in the end.</p>
+
+
+<p>A corollary of this is that you can&#8217;t design a great product unless you live, eat, and breathe like your users do. You need to know <i>exactly</i> who your user is, what their problems are, how <i>they</i> perceive your product, and who helps them make buying decisions. Your intuition has to mirror how the customers will perceive your product. Categorizing features is only useful if it&#8217;s a good predictor of your actual users&#8217;s response. Otherwise, you&#8217;re just wasting time.</p>
+
+
+<h2>Aggregate gamechangers</h2>
+
+
+<p>There is a subtlety to the model we haven&#8217;t discussed so far. Some features aren&#8217;t sufficiently impressive on their own, but become gamechangers in aggregate. For example, suppose you design a unique set of icons for your phone. Is that a gamechanger? Probably not. What about a unique color scheme? It doesn&#8217;t seem like a gamechanger either. How about a unique family of phone cases? It&#8217;s hard to imagine people buying a phone because of a pretty case.<sup>2</sup> But what if you put these features together? A unique design direction that combines a novel icon set, color scheme, and family of phone cases sounds like it might be a sufficient gamechanger to attract consumers.</p>
+
+
+<p>Features that become gamechangers in aggregate are dangerous for three reasons. Firstly, it becomes harder to tell what combination of individual features is and isn&#8217;t a gamechanger. Secondly, aggregate gamechangers are expensive &#8212; instead of making a couple of good decisions on a feature, you have to make dozens or hundreds of good decisions for a whole family of features. Thirdly, it makes it easier to convince yourself that if you add just one more feature, you&#8217;ll strike a gamechanger. Building great products is already difficult. Introducing a subtlety like this makes it even harder.</p>
+
+
+<p>Many products do succeed in exactly this way, but if possible, try to avoid it. If you have no choice but to resort to aggregate gamechangers, it probably means you&#8217;re working in a relatively mature market. Often, that&#8217;s ok, but it should prompt you to do some soul searching. Is it really worth being in this market, or does it make sense to find another one where you can innovate more easily?</p>
+
+
+<h2>Product mission</h2>
+
+
+<p>Suppose you&#8217;ve developed product intuition to apply the three bucket model to your field. You can easily (and correctly) categorize features. You&#8217;re now ahead of most product managers. But you&#8217;re still not quite done. There are a few problems with this approach:</p>
+
+
+<ul>
+    <li>If you&#8217;re categorizing features ad-hoc, it&#8217;s easy to make mistakes and then construct a rhetoric in your mind to convince yourself that you&#8217;ve done the right thing.</li>
+    <li>While you&#8217;re building the product, you&#8217;ll have to be a part of every single decision because other people have no guidance.</li>
+    <li>Your engineers will get frustrated, because they&#8217;ll think you&#8217;re pulling decisions out of thin air.</li>
+    <li>Before the product is done you&#8217;ll have to convince many other people to help you &#8212; journalists, investors, potential hires, and customers. Convincing people is hard if you&#8217;re making decisions ad-hoc.</li>
+</ul>
+
+
+<p>A great way to get around these problems is to write down a product mission. Think of it as a function that accepts a given feature as an argument, and returns one of the three categories above. A good function definition is concise, understandable, and repeatable. Ideally after reading it, most people on your team will be able to categorize features themselves in the same way you would.</p>
+
+
+<p><a href="https://github.com/rethinkdb/rethinkdb/issues/1000">Here</a> is a humorous product mission we came up with for RethinkDB that worked surprisingly well:</p>
+
+
+<blockquote>
+<p><strong>Database tools should be indistinguishable from magic</strong><br />
+Surprise and amaze people with developer tools for building real-time, data-driven web applications they could only dream of building, and bring sheer joy and simplicity to the process of building great software.</p>
+</blockquote>
+
+
+<p>On the surface these two sentences don&#8217;t say very much, but if you dig in a little, this product mission has surprisingly high information density. It tells people we&#8217;re building a database. It tells people we treat the product as a developer tool first. This resolves the tension between developer features (like the query language) and operations features (like monitoring). All of our gamechanging features revolve around developers. We treat operations as a showstopper. It explains what we expect our users to do with RethinkDB (build real-time, data-driven web applications). It gives people a sense of how far we&#8217;ll go on certain features (surprise and amaze). Being good enough for developers isn&#8217;t enough. These people spend many hours a day using our software &#8212; we want to make the experience <i>pleasant</i>. It suggests that we are willing to accept more complex implementations to make our users&#8217;s lives easier. It guides us to build features that let developers build new types of applications, not just the ones that already exist. It&#8217;s self-aware and leaks a healthy sense of humor we have as a team. This gives people a sense of who we are. We can test feature proposals against this product mission, and with a bit of additional shared knowledge it lets our team members independently categorize features in roughly the same way.</p>
+
+
+<p>It took us three years to understand what we&#8217;re doing well enough to come up with this product mission. If we&#8217;d had it on day one, it would probably have cut development time in half &#8212; maybe more. When you&#8217;re building a product, the mission should be the first thing you work on. If your mental model is good enough to write a product mission that inspires everyone in your company, everything else will fall into place.</p>
+
+
+<p><br />
+<i><sup>1</sup> I don&#8217;t mean to imply that picking a good market is easier than building a great product. In fact, the opposite is true. It&#8217;s far easier to get a handle on product management, so I decided to tackle this subject first. Aside from great products and market growth, there are also questions of distribution, economics, regulated markets, and other subtleties. But the number of early stage software startups that fail for these reasons pales in comparison to the number of startups that pick small markets or don&#8217;t manage to deliver great products on time.</i><br />
+<i><sup>2</sup> In practice it often turns out that people do buy phones because of unique colors or cases. But I&#8217;m ignoring this subtlety to focus on a larger point.</i></p>
+
+
+<p><br />
+<i>Thanks to Michael Glukhovsky and Michael Lucy for reviewing this post.</i></p>
+
+
+        ]]>
+      </content>
+    </entry>
+    
+  
+    
+    <entry>
+      <id>http://www.defmacro.org//2013/07/23/startup-lessons</id>
+      <title>57 startup lessons</title>
+      <author>
+        <name>Slava Akhmechet</name>
+      </author>
+      <link href="http://www.defmacro.org/2013/07/23/startup-lessons.html"/>
+      <published>2013-07-23T00:00:00+00:00</published>
+      <updated>2013-07-23T00:00:00+00:00</updated>
+      <content type="html">
+        <![CDATA[
+        <h1>57 startup lessons</h1>
+
+
+<p class="meta">13 Aug 2013</p>
+
+
+<p>There are already very good lists of startup lessons written by really talented, experienced people (<a href="http://betashop.com/post/32913573235/90-things-ive-learned-from-founding-4-technology">here</a> and <a href="http://blog.samaltman.com/startup-advice">here</a>). I&#8217;d like to add another one. I learned these lessons the hard way in the past four years. If you&#8217;re starting a company, I hope you have an easier path.</p>
+
+
+<h2>People<br />
+<br /></h2>
+
+
+<ol>
+    <li>If you can&#8217;t get to ramen profitability with a team of 2 &#8211; 4 within six months to a year, something&#8217;s wrong. (You can choose not to be profitable, but it must be your choice, not something forced on you by the market).</li>
+    <li>Split the stock between the founding team evenly.</li>
+    <li>Always have a vesting schedule.</li>
+    <li>Make most decisions by consensus, but have a single <span class="caps">CEO</span> whose decisions are final. Make it clear from day one.</li>
+    <li>Your authority as <span class="caps">CEO</span> is earned. You start with a non-zero baseline. It grows if you have victories and dwindles if you don&#8217;t. Don&#8217;t try to use authority you didn&#8217;t earn.</li>
+    <li>Morale is very real and self-perpetuating. If you work too long without victories, your investors, employees, family, and you yourself will lose faith. Work like hell not to get yourself into this position.</li>
+    <li>Pick the initial team <strong>very</strong> carefully. Everyone should be pleasant to work with, have at least one skill relevant to the business they&#8217;re spectacular at, be extremely effective and pragmatic. Everyone should have product sense and a shared vision for the product and the company.</li>
+    <li>The standard you walk past is the standard you accept. Pick a small set of non-negotiable rules that matter to you most and enforce them ruthlessly.</li>
+    <li>Fire people that are difficult, unproductive, unreliable, have no product sense, or aren&#8217;t pragmatic. Do it quickly.</li>
+    <li>Some friction is good. Too much friction is deadly. Fire people that cause too much friction. Good job + bad behavior == you&#8217;re fired.</li>
+</ol>
+
+
+<h2 style="margin-left: -8px;"><br />Fundraising<br /><br /></h2>
+
+
+<ol start="11">
+    <li>If you have to give away more than 15% of the company at any given fundraising round, your company didn&#8217;t germinate correctly. It&#8217;s salvageable but not ideal.</li>
+    <li>If you haven&#8217;t earned people&#8217;s respect yet, fundraising on traction is an order of magnitude easier than fundraising on a story. If you have to raise on a story but don&#8217;t have the reputation, something&#8217;s wrong.</li>
+    <li>Treat your fundraising pitch as a minimum viable product. Get it out, then iterate after every meeting.</li>
+    <li>Most investor advice is very good for optimizing and scaling a working business. Listen to it.</li>
+    <li>Most investor advice isn&#8217;t very good for building a magical product. Nobody can help you build a magical product &#8212; that&#8217;s your job.</li>
+    <li>Don&#8217;t fall in love with the fundraising process. Get it done and move on.</li>
+</ol>
+
+
+<h2 style="margin-left: -8px;"><br />Markets<br /><br /></h2>
+
+
+<ol start="17">
+    <li>The best products don&#8217;t get built in a vacuum. They win because they reach the top of a field over all other products designed to fill the same niche. Find your field and be the best. If there is no field, something&#8217;s wrong.</li>
+    <li>Work on a problem that has an immediately useful solution, but has enormous potential for growth. If it doesn&#8217;t augment the human condition for a huge number of people in a meaningful way, it&#8217;s not worth doing. For example, Google touches billions of lives by filling a very concrete space in people&#8217;s daily routine. It changes the way people behave and perceive their immediate physical surroundings. Shoot for building a product of this magnitude.</li>
+    <li>Starting with the right idea matters. Empirically, you can only pivot so far.</li>
+    <li>Assume the market is efficient and valuable ideas will be discovered by multiple teams nearly instantaneously.</li>
+    <li>Pick new ideas because they&#8217;ve been made possible by other social or technological change. Get on the train as early as possible, but make sure the technology is there to make the product be enough better that it matters.</li>
+    <li>If there is an old idea that didn&#8217;t work before and there is no social or technological change that can plausibly make it work now, assume it will fail. (That&#8217;s the efficient market hypothesis again. If an idea could have been brought to fruition, it would have been. It&#8217;s only worth trying again if something changed.)</li>
+    <li>Educating a market that doesn&#8217;t want your product is a losing battle. Stick to your ideals and vision, but respect trends. If you believe the world needs iambic pentameter poetry, sell hip hop, not sonnets.</li>
+</ol>
+
+
+<h2 style="margin-left: -8px;"><br />Products<br /><br /></h2>
+
+
+<ol start="24">
+    <li>Product sense is everything. Learn it as quickly as you can. Being good at engineering has nothing to do with being good at product management.</li>
+    <li>Don&#8217;t build something that already exists. Customers won&#8217;t buy it just because it&#8217;s yours.</li>
+    <li>Make sure you know why users will have no choice but to switch to your product, and why they won&#8217;t be able to switch back. Don&#8217;t trust yourself &#8212; test your assumptions as much as possible.</li>
+    <li>Ask two questions for every product feature. Will people buy because of this feature? Will people not buy because of lack of this feature? No amount of the latter will make up for lack of the former. Don&#8217;t build features if the answer to both questions is &#8220;no&#8221;.</li>
+    <li>Build a product people want to buy in spite of rough edges, not because there are no rough edges. The former is pleasant and highly paid, the latter is unpleasant and takes forever.</li>
+    <li>Beware of chicken and egg products. Make sure your product provides immediate utility.</li>
+    <li>Learn the difference between people who might buy your product and people who are just commenting. Pay obsessive attention to the former. Ignore the latter.</li>
+</ol>
+
+
+<h2 style="margin-left: -8px;"><br />Marketing<br /><br /></h2>
+
+
+<ol start="31">
+    <li>Product comes first. If people love your product, the tiniest announcements will get attention. If people don&#8217;t love your product, no amount of marketing effort will help.</li>
+    <li>Try to have marketing built into the product. If possible, have the YouTube effect (your users can frequently send people a link to something interesting on your platform), and Facebook effect (if your users are on the product, their friends will need to get on the product too).</li>
+    <li>Watch <a href="http://en.wikipedia.org/wiki/Jiro_Dreams_of_Sushi">Jiro Dreams of Sushi</a>, then do marketing that way. Pick a small set of tasks, do them consistently, and get better every day.</li>
+    <li>Reevaluate effectiveness on a regular basis. Cut things that don&#8217;t work, double down on things that do.</li>
+    <li>Don&#8217;t guess. Measure.</li>
+    <li>Market to your users. Getting attention from people who won&#8217;t buy your product is a waste of time and money.</li>
+    <li>Don&#8217;t say things if your competitors can&#8217;t say the opposite. For example, your competitors can&#8217;t say their product is slow, so saying yours is fast is sloppy marketing. On the other hand, your competitors <strong>can</strong> say their software is for Python programmers, so saying yours is for Ruby programmers is good marketing. Apple can get away with breaking this rule, you can&#8217;t.</li>
+    <li>Don&#8217;t use supercilious tone towards your users or competitors. It won&#8217;t help sell the product and will destroy good will.</li>
+    <li>Don&#8217;t be dismissive of criticism. Instead, use it to improve your product. Your most vocal critics will often turn into your biggest champions if you take their criticism seriously.</li>
+</ol>
+
+
+<h2 style="margin-left: -8px;"><br />Sales<br /><br /></h2>
+
+
+<ol start="40">
+    <li>Sales fix everything. You can screw up everything else and get through it if your product sells well.</li>
+    <li>Product comes first. Selling a product everyone wants is easy and rewarding. Selling a product no one wants is an unpleasant game of numbers.</li>
+    <li>Be relentless about working the game of numbers while the product is between the two extremes above. Even if you don&#8217;t sell anything, you&#8217;ll learn invaluable lessons.</li>
+    <li>Qualify ruthlessly. Spending time with a user who&#8217;s unlikely to buy is equivalent to doing no work at all.</li>
+    <li>Inbound is easier than outbound. If possible, build the product in a way where customers reach out to you and ask to pay.</li>
+</ol>
+
+
+<h2 style="margin-left: -8px;"><br />Development<br /><br /></h2>
+
+
+<ol start="45">
+    <li>Development speed is everything.</li>
+    <li>Minimize complexity. The simpler the product, the more likely you are to actually ship it, and the more likely you are to fix problems quickly.</li>
+    <li>Pick implementations that give 80% of the benefit with 20% of the work.</li>
+    <li>Use off the shelf components whenever possible.</li>
+    <li>Use development sprints. Make sure your sprints aren&#8217;t longer than one or two weeks.</li>
+    <li>Beware of long projects. If you can&#8217;t fit it into a sprint, don&#8217;t build it.</li>
+    <li>Beware of long rewrites. If you can&#8217;t fit it into a sprint, don&#8217;t do it.</li>
+    <li>If you must do something that doesn&#8217;t fit into a sprint, put as much structure and peer review around it as possible.</li>
+    <li>Working on the wrong thing for a month is equivalent to not showing up to work for a month at all.</li>
+</ol>
+
+
+<h2 style="margin-left: -8px;"><br />Company administration<br /><br /></h2>
+
+
+<ol start="54">
+    <li>Don&#8217;t waste time picking office buildings, accountants, bookkeepers, janitors, furniture, hosted tools, payroll companies, etc. Make sure it&#8217;s good enough and move on.</li>
+    <li>Take the time to find a good, inexpensive lawyer. It will make a difference.</li>
+</ol>
+
+
+<h2 style="margin-left: -8px;"><br />Personal well-being<br /><br /></h2>
+
+
+<ol start="56">
+    <li>Do everything you can not to attach your self esteem to your startup (you&#8217;ll fail, but try anyway). Do the best you can every day, then step back. Work in such a way that when the dust settles you can be proud of the choices you&#8217;ve made, regardless of the outcome.</li>
+    <li>Every once in a while, get away. Go hiking, visit family in another city, go dancing, play chess, tennis, <strong>anything</strong>. It will make you more effective and make the people around you happier.</li>
+</ol>
+
+
+<p><br />
+<i>Thanks to Michael Glukhovsky for reviewing this post.</i></p>
+
+
+        ]]>
+      </content>
+    </entry>
+    
+  
+</feed>
